@@ -1,20 +1,8 @@
 /******************************************************************************
  *                                                                            *
- * Exercise 1                                                                 *
- *                                                                            *
- * Task 1: Hello World                                                        *
- * Task 2: Advanced Hello World                                               *
- * Task 3: Modified Hello World             X /  4 Points                     *
- * Task 4: United States of Hello World     X /  4 Points                     *
- * Comprehension Questions                  X /  2 Points                     *
- *                                        ----------------                    *
- *                                         XX / 10 Points                     *
- *                                                                            *
- ******************************************************************************
- *                                                                            *
- * name:                    Santosh Kumar Kasam                                         *
- * matriculation number:    1533833 *
- * e-mail:                  santosh.kasam@student.uni-siegen.de                   *
+ * name:                    Santosh Kumar Kasam                               *
+ * matriculation number:    1533833                                           *
+ * e-mail:                  santosh.kasam@student.uni-siegen.de               *
  *                                                                            *
  ******************************************************************************
  *                                                                            *
